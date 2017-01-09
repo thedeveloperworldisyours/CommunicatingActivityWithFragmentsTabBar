@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListenerFromActivityToAllFragments</string>
+    <string name="fragment_our_text">TheDeveloperWorldIsYours.com</string>
+    <string name="menu_main_search_title">Search</string>
+    <string name="fragment_first_title">First</string>
+    <string name="fragment_second_title">Second</string>
+</resources>
